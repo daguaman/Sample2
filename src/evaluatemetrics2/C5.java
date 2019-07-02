@@ -10,5 +10,4 @@ package evaluatemetrics2;
  * @author daguaman
  */
     class C5 extends C3 {  
-        int i=0;
     } 
