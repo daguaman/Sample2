@@ -11,12 +11,8 @@ package evaluatemetrics2;
  */
     class C1 {
         float v1 = 3;
-        void m1(int i){ 
-            System.out.print("m1");
-        }
-        void m2(char ch){ 
-            System.out.print("m2");
-        }
+        void m1(int i){ }
+        void m2(char ch){ }
         float m3(){ 
         return 4 * v1;
         }
