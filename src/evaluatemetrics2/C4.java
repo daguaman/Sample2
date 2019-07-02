@@ -9,6 +9,6 @@ package evaluatemetrics2;
  *
  * @author daguaman
  */
-public class C4 {
+public class C4 extends C3 {
     
 }
