@@ -10,10 +10,6 @@ package evaluatemetrics2;
  * @author daguaman
  */
     class C2 extends C1 {
-        void m1(float f) { 
-        System.out.print("m1");
-        }
-        void m2(String s) { 
-        System.out.print("m2");
-        }
+        void m1(float f) { }
+        void m2(String s) { }
     }
